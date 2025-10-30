@@ -1,0 +1,26 @@
+[
+  {
+    "name": "TS960 100S CLOUTABLE – P225/65R17",
+    "brand": "",
+    "image": "https://pneuecolo.com/wp-content/uploads/2024/10/TS960-300x300.png",
+    "price": "113.99",
+    "size": "225/65R17",
+    "type": "Winter",
+    "model": "TS960",
+    "load_index": "100",
+    "speed_rating": "S",
+    "studdable": true
+  },
+  {
+    "name": "TS960 90T CLOUTABLE – P205/55R16",
+    "brand": "",
+    "image": "https://pneuecolo.com/wp-content/uploads/2024/10/TS960-300x300.png",
+    "price": "99.99",
+    "size": "205/55R16",
+    "type": "Winter",
+    "model": "TS960",
+    "load_index": "90",
+    "speed_rating": "T",
+    "studdable": true
+  }
+]
